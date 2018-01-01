@@ -1,0 +1,2 @@
+# ImgDLderOnChrome
+Chromeコンソールにコピペするだけで画像を全部DLできるスクリプト。悪用厳禁！
