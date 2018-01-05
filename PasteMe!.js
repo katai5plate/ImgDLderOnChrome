@@ -4,7 +4,7 @@
 
 */
 
-const m=window.confirm("連番DLしますか？\n(なぜかJPGはできないです)");
+const m=window.confirm("連番DLを試みますか？\n(できないときがあります)");
 let c=0;
 const i=document.getElementsByTagName('img');
 const p=()=>{
